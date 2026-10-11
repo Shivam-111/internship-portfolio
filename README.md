@@ -1,6 +1,6 @@
-# Your Name — Portfolio
+# Shivam's Portfolio
 
-A responsive, multi-page portfolio starter built with semantic HTML5, CSS Flexbox and Grid, and vanilla JavaScript. It includes a saved light/dark theme, a mobile navigation menu, smooth anchor scrolling, and accessible contact-form validation.
+A responsive, multi-page developer portfolio built with semantic HTML5, CSS Flexbox and Grid, and vanilla JavaScript. It includes a saved light/dark theme, a mobile navigation menu, smooth anchor scrolling, and accessible contact-form validation.
 
 No packages, build process, or backend are required.
 
@@ -65,21 +65,16 @@ Task-1/
 └── README.md
 ```
 
-## Publish to GitHub
+## GitHub
 
-Create an empty repository on GitHub, then open a terminal **in this `Task-1` folder** and run:
+This portfolio is published at [github.com/Shivam-111/internship-portfolio](https://github.com/Shivam-111/internship-portfolio). To publish future updates, run these commands from this project folder:
 
 ```powershell
-git init
-git add README.md .gitignore index.html assets pages docs screenshots
-git commit -m "Build responsive portfolio website"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
+git add .
+git commit -m "Update portfolio"
+git push
 ```
 
-Replace the remote URL with the repository you created. This project lives inside a parent folder that also has Git metadata, so run these commands from `Task-1` and stage only the listed project files.
+## Follow-up
 
-## Before submitting
-
-Replace **Your Name**, the sample email address, profile and services copy, skills, and concept projects with your own accurate information. The contact form validates in the browser but needs a backend or form service to deliver messages.
+The contact form currently validates in the browser but does not send or store messages. Add a real contact method or connect a form service before relying on it for inquiries. Project cards are labeled as concepts; replace them with finished work when available.

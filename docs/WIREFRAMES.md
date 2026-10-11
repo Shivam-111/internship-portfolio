@@ -6,7 +6,7 @@ These low-fidelity layouts describe the page structure at desktop and mobile siz
 
 ```text
 +------------------------------------------------------------------+
-| Your Name       [Dark mode]   Home About Services ...             |
+| Shivam          [Dark mode]   Home About Services ...             |
 +------------------------------------------------------------------+
 | Intro, headline, summary, actions       | Profile card             |
 +------------------------------------------------------------------+
@@ -24,7 +24,7 @@ These low-fidelity layouts describe the page structure at desktop and mobile siz
 
 ```text
 +------------------------------+
-| Your Name      [Dark] [Menu] |
+| Shivam         [Dark] [Menu] |
 +------------------------------+
 | Intro and headline           |
 | Summary and actions          |

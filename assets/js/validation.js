@@ -74,6 +74,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     form.reset();
     status.textContent =
-      "Your message passed validation. This demo does not send email; please use the email link to get in touch.";
+      "Your message passed validation, but this demo does not send or store it.";
   });
 });
