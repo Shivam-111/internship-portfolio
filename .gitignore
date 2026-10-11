@@ -1,0 +1,6 @@
+# Ignore local editor settings
+.vscode/
+.DS_Store
+
+# Ignore generated files
+*.log
